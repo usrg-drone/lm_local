@@ -1,0 +1,7 @@
+{
+    "python.condaPath": "${env:HOME}/miniconda3",
+    "python.defaultInterpreterPath": "${env:HOME}/miniconda3/bin/python",
+    "terminal.integrated.env.linux": {
+        "PATH": "${env:HOME}/miniconda3/bin:${env:PATH}"
+    }
+}
