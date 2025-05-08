@@ -3,7 +3,7 @@
 	url = git@github.com:swl017/awesome_utils.git
 [submodule "lm_remote"]
 	path = lm_remote
-	url = git@github.com:swl017/lm_remote.git
+	url = git@github.com:usrg-drone/prompts.git
 [submodule "transformers"]
 	path = transformers
 	url = https://github.com/huggingface/transformers.git
